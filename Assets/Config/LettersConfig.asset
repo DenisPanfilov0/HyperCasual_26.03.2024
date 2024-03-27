@@ -1,0 +1,119 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f667ed0ac7ff43ca9fca57eb1da1068d, type: 3}
+  m_Name: LettersConfig
+  m_EditorClassIdentifier: 
+  _items:
+  - _question: Find Letters A
+    _sprite: {fileID: 4963718625464178563, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters B
+    _sprite: {fileID: 7783457984840754399, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters C
+    _sprite: {fileID: 3234300448368640894, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters D
+    _sprite: {fileID: 7911670913450602933, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters F
+    _sprite: {fileID: -6426668015567183463, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters G
+    _sprite: {fileID: 216406037199867053, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters J
+    _sprite: {fileID: -2756605603065543306, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters I
+    _sprite: {fileID: -3541686595128163680, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters E
+    _sprite: {fileID: 4652326554734856401, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters H
+    _sprite: {fileID: -8235857483100294123, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters K
+    _sprite: {fileID: -1127063002332224934, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters L
+    _sprite: {fileID: -5901097786099144959, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters M
+    _sprite: {fileID: 3295844289267200183, guid: 762dffd5cf4c4c34cbe187f4f1e7c6d0, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters R
+    _sprite: {fileID: -6342808464625005154, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters S
+    _sprite: {fileID: 8083504644574312765, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters U
+    _sprite: {fileID: 3270655726746431581, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters V
+    _sprite: {fileID: -2983290644488427326, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters O
+    _sprite: {fileID: 5433449995169814141, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters Q
+    _sprite: {fileID: -4447791616812998045, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters W
+    _sprite: {fileID: -9165466868132007793, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters T
+    _sprite: {fileID: -4461999128152558772, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters N
+    _sprite: {fileID: 7112752472869403061, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters P
+    _sprite: {fileID: -4252152113809563852, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters X
+    _sprite: {fileID: 4461586319009975920, guid: 5645268a3cbb349458dc57dd5b62eae1, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters Y
+    _sprite: {fileID: -5001085640463096552, guid: 0177a2b5fd33311438224dff766185c6, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Letters Z
+    _sprite: {fileID: 3539555106843919260, guid: 0177a2b5fd33311438224dff766185c6, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f667ed0ac7ff43ca9fca57eb1da1068d, type: 3}
+  m_Name: NumbersConfig
+  m_EditorClassIdentifier: 
+  _items:
+  - _question: Find Number 1
+    _sprite: {fileID: 1422184923334757970, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 2
+    _sprite: {fileID: 1808195818850983521, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 3
+    _sprite: {fileID: -7900951133411543555, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 4
+    _sprite: {fileID: 2267071060405275165, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 5
+    _sprite: {fileID: -7398325283844340781, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 6
+    _sprite: {fileID: -7015292045520539579, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 7
+    _sprite: {fileID: -675344402919758444, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 90
+    _isUsed: 1
+  - _question: Find Number 8
+    _sprite: {fileID: 3547489320769246608, guid: 04ad946bbbf15414aa9966cdfb710dfe, type: 3}
+    _angleOfRotation: 90
+    _isUsed: 0
+  - _question: Find Number 9
+    _sprite: {fileID: -1155199509967091035, guid: 86d7db78463bb1e4ab4a01cbf6be16df, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
+  - _question: Find Number 10
+    _sprite: {fileID: 4142021021139464533, guid: 3a6197a1dc881474597bd91f3dfb383b, type: 3}
+    _angleOfRotation: 0
+    _isUsed: 0
