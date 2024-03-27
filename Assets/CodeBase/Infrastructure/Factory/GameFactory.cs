@@ -33,7 +33,6 @@ namespace CodeBase.Infrastructure.Factory
 
             Instantiate(AssetPath.CellPath, at, cardBundleData, payload);
             
-            //if (_gridCells == null) _gridCells = payload;
             _gridCells ??= payload;
         }
 

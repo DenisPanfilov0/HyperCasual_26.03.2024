@@ -28,12 +28,14 @@ namespace CodeBase.Infrastructure.State
         public void Enter<TState>() where TState : class, IState
         {
             IState state = ChangeState<TState>();
+            
             state.Enter();
         }
 
         public void Enter<TState, TPayload>(TPayload payload) where TState : class, IPayloadedState<TPayload>
         {
             TState state = ChangeState<TState>();
+            
             state.Enter(payload);
         }
 
@@ -42,6 +44,7 @@ namespace CodeBase.Infrastructure.State
             _activeState?.Exit();
 
             TState state = GetState<TState>();
+            
             _activeState = state;
 
             return state;

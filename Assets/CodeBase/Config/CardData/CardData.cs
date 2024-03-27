@@ -35,6 +35,4 @@ namespace CodeBase.Config.CardData
             set => _isUsed = value;
         }
     }
-
-
 }

@@ -3,6 +3,7 @@ using CodeBase.Game;
 using CodeBase.Infrastructure.AssetManagement;
 using CodeBase.Infrastructure.Factory;
 using CodeBase.Services;
+using UnityEngine;
 
 namespace CodeBase.Infrastructure.State
 {
@@ -42,6 +43,7 @@ namespace CodeBase.Infrastructure.State
 
         public void Exit()
         {
+            Debug.Log("Exit State");
         }
 
         private void RegisterServices()

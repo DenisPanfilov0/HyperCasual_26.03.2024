@@ -6,7 +6,7 @@ namespace CodeBase.Game
 {
     public class Game
     {
-        public GameStateMachine StateMachine;
+        public readonly GameStateMachine StateMachine;
 
         public Game(ICoroutineRunner coroutineRunner, CardBundleData cardBundleData)
         {

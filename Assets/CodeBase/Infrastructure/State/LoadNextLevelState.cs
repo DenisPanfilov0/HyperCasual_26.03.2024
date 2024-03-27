@@ -1,4 +1,3 @@
-using CodeBase.Config.CardData;
 using CodeBase.Infrastructure.Factory;
 using UnityEngine;
 
@@ -27,13 +26,11 @@ namespace CodeBase.Infrastructure.State
             }
             else
                 _stateMachine.Enter<RestartLevelState>();
-
         }
 
         public void Exit()
         {
+            Debug.Log("Exit State");
         }
-        
-
     }
 }

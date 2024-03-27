@@ -44,6 +44,7 @@ namespace CodeBase.Infrastructure.State
 
         public void Exit()
         {
+            Debug.Log("Exit State");
         }
 
         private void CreateFade()
